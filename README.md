@@ -1,6 +1,9 @@
 # Placar ping pong
 Um placar de tênis de mesa, completo, em C# (forms .NET)
 
+![placar](https://user-images.githubusercontent.com/66328408/188745808-406da540-ae47-473e-817e-52247c2b805e.png)
+Essa é a aparência do placar, tem uma navegação simples e até instruções de como usar.
+
 Ao abrir o projeto no Visual Studio, você deverá alterar o arquivo "conexao.cs", incluindo um banco de dados válido.
 ![image](https://user-images.githubusercontent.com/66328408/130221604-53027a76-9524-4a3c-8ea9-c5f30e713fda.png) <br><br>
 Seu banco de dados deverá ter a tabela "tb01_resultados", com os seguintes campos:
